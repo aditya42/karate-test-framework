@@ -1,6 +1,6 @@
 # Karate v2 Automation Framework
 
-GitHub-ready starter framework built on **Karate 2.1.2**, **JUnit 6**, **Maven**, and **Java 21**.
+Framework built on **Karate 2.1.2**, **JUnit 6**, **Maven**, and **Java 21**.
 
 It provides a scalable starting point for API automation while keeping optional UI, GraphQL, and mock examples in the same repository.
 
